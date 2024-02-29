@@ -1,0 +1,28 @@
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.exe
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.deps.json
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\refint\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\ref\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.exe
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.deps.json
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\bin\Debug\net6.0\exercicioMatrizes.pdb
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\refint\exercicioMatrizes.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.pdb
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\exercicioMatrizes.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\exercicioMatrizes\exercicioMatrizes\exercicioMatrizes\obj\Debug\net6.0\ref\exercicioMatrizes.dll
