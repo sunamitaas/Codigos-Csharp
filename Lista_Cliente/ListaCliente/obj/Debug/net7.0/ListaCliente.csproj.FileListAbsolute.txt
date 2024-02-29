@@ -1,0 +1,15 @@
+C:\Users\1986393\Documents\AP2\ListaCliente\bin\Debug\net7.0\ListaCliente.exe
+C:\Users\1986393\Documents\AP2\ListaCliente\bin\Debug\net7.0\ListaCliente.deps.json
+C:\Users\1986393\Documents\AP2\ListaCliente\bin\Debug\net7.0\ListaCliente.runtimeconfig.json
+C:\Users\1986393\Documents\AP2\ListaCliente\bin\Debug\net7.0\ListaCliente.dll
+C:\Users\1986393\Documents\AP2\ListaCliente\bin\Debug\net7.0\ListaCliente.pdb
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.csproj.AssemblyReference.cache
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.AssemblyInfoInputs.cache
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.AssemblyInfo.cs
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.csproj.CoreCompileInputs.cache
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.dll
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\refint\ListaCliente.dll
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.pdb
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ListaCliente.genruntimeconfig.cache
+C:\Users\1986393\Documents\AP2\ListaCliente\obj\Debug\net7.0\ref\ListaCliente.dll
