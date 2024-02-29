@@ -1,0 +1,14 @@
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\bin\Debug\net6.0\atividadesFuncoes15pt.exe
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\bin\Debug\net6.0\atividadesFuncoes15pt.deps.json
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\bin\Debug\net6.0\atividadesFuncoes15pt.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\bin\Debug\net6.0\atividadesFuncoes15pt.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\bin\Debug\net6.0\atividadesFuncoes15pt.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\refint\atividadesFuncoes15pt.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\atividadesFuncoes15pt.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\atividadesFuncoes15pt\atividadesFuncoes15pt\atividadesFuncoes15pt\obj\Debug\net6.0\ref\atividadesFuncoes15pt.dll
