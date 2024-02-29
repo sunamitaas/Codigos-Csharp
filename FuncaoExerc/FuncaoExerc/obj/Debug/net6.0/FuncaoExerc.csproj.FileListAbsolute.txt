@@ -1,0 +1,29 @@
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.exe
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.deps.json
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.runtimeconfig.json
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.dll
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.pdb
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.csproj.AssemblyReference.cache
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.AssemblyInfoInputs.cache
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.AssemblyInfo.cs
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.csproj.CoreCompileInputs.cache
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.dll
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\refint\FuncaoExerc.dll
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.pdb
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.genruntimeconfig.cache
+C:\Users\2023102060035\Documents\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\ref\FuncaoExerc.dll
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.exe
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.deps.json
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.dll
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\bin\Debug\net6.0\FuncaoExerc.pdb
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.dll
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\refint\FuncaoExerc.dll
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.pdb
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\FuncaoExerc.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Documentos\03 - FACULDADE\2º PERIODO\ALGORITIMO E PROGRAMAÇÃO 2\FuncaoExerc\FuncaoExerc\FuncaoExerc\FuncaoExerc\obj\Debug\net6.0\ref\FuncaoExerc.dll
