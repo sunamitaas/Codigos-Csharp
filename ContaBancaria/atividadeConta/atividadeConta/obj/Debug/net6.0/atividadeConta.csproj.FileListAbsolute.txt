@@ -1,0 +1,29 @@
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.exe
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.deps.json
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.runtimeconfig.json
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.dll
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.pdb
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.csproj.AssemblyReference.cache
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.AssemblyInfoInputs.cache
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.AssemblyInfo.cs
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.csproj.CoreCompileInputs.cache
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.dll
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\refint\atividadeConta.dll
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.pdb
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.genruntimeconfig.cache
+C:\Users\2023102060035\Documents\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\ref\atividadeConta.dll
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.exe
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.deps.json
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.runtimeconfig.json
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.dll
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\bin\Debug\net6.0\atividadeConta.pdb
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.AssemblyInfoInputs.cache
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.AssemblyInfo.cs
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.csproj.CoreCompileInputs.cache
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.dll
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\refint\atividadeConta.dll
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.pdb
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\atividadeConta.genruntimeconfig.cache
+C:\Users\2023102060035\Downloads\Orientação e Objetos\Orientação e Objetos\Aula02\atividadeConta\atividadeConta\obj\Debug\net6.0\ref\atividadeConta.dll
