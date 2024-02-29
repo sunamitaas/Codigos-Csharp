@@ -1,0 +1,30 @@
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.exe
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.deps.json
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.pdb
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.csproj.AssemblyReference.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\refint\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.pdb
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\ref\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.exe
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.deps.json
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\bin\Debug\net6.0\exercicioVetor9.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.csproj.AssemblyReference.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\refint\exercicioVetor9.dll
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.pdb
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\exercicioVetor9.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Área de Trabalho\exercicioVetor\exercicioVetor9\exercicioVetor9\exercicioVetor9\obj\Debug\net6.0\ref\exercicioVetor9.dll
