@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicioVetor7", "exercicioVetor7\exercicioVetor7.csproj", "{DDD9F4F3-A005-4472-9E1D-405A20B7712E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD9F4F3-A005-4472-9E1D-405A20B7712E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD9F4F3-A005-4472-9E1D-405A20B7712E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD9F4F3-A005-4472-9E1D-405A20B7712E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD9F4F3-A005-4472-9E1D-405A20B7712E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C73C5548-53FF-474C-A607-53C8AB4960F3}
+	EndGlobalSection
+EndGlobal
