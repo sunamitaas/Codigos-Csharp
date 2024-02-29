@@ -1,0 +1,15 @@
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\bin\Debug\net6.0\exercicioVetor1.exe
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\bin\Debug\net6.0\exercicioVetor1.deps.json
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\bin\Debug\net6.0\exercicioVetor1.runtimeconfig.json
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\bin\Debug\net6.0\exercicioVetor1.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\bin\Debug\net6.0\exercicioVetor1.pdb
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.csproj.AssemblyReference.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.AssemblyInfoInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.AssemblyInfo.cs
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.csproj.CoreCompileInputs.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\refint\exercicioVetor1.dll
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.pdb
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\exercicioVetor1.genruntimeconfig.cache
+C:\Users\mymyt\OneDrive\Documentos\FACULDADE - Curso ADS\2º PERIODO\Algoritimo II\exercicioVetor\exercicioVetor1\exercicioVetor1\exercicioVetor1\obj\Debug\net6.0\ref\exercicioVetor1.dll
